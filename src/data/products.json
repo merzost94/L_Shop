@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Ноутбук ASUS",
+    "description": "Мощный ноутбук для работы и игр",
+    "price": 4000,
+    "category": "Электроника",
+    "inStock": true,
+    "createdAt": "2026-03-14T10:00:00.000Z",
+    "updatedAt": "2026-03-14T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Наушники Sony",
+    "description": "Беспроводные наушники с шумоподавлением",
+    "price": 1300,
+    "category": "Аксессуары",
+    "inStock": true,
+    "createdAt": "2026-03-14T10:00:00.000Z",
+    "updatedAt": "2026-03-14T10:00:00.000Z"
+  },
+  {
+    "id": "f370fcc9-4607-4153-a0d4-9d5a5a7da4be",
+    "name": "Планшет iPad Pro",
+    "description": "M2 chip, 11 дюймов, 128GB",
+    "price": 2000,
+    "category": "Планшеты",
+    "inStock": true,
+    "createdAt": "2026-03-15T11:48:54.768Z",
+    "updatedAt": "2026-03-15T11:48:54.768Z"
+  }
+]

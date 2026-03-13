@@ -1,0 +1,17 @@
+[
+  {
+    "userId": "7b5cf0af-ad0c-4d20-bbd1-0017b3dd4dd4",
+    "items": [],
+    "updatedAt": "2026-03-18T08:33:02.805Z"
+  },
+  {
+    "userId": "8f3d89a9-68b1-4fcf-8eb8-0d1a5c33b388",
+    "items": [
+      {
+        "productId": "f370fcc9-4607-4153-a0d4-9d5a5a7da4be",
+        "quantity": 1
+      }
+    ],
+    "updatedAt": "2026-03-16T11:19:22.196Z"
+  }
+]
